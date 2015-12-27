@@ -1,4 +1,4 @@
-### CodeBook for the Getting and Cleaning Data Course Project
+# CodeBook for the Getting and Cleaning Data Course Project
 
 ## Project Description
 
@@ -53,7 +53,7 @@ To clean the data, the following transformations have been applied to the origin
 
 ## Description of the tidy data
 
-The tidy data stored in “tidy_data.txt” contains 68 variables and 180 measurements. The variables are as follows:
+The tidy data stored in ''tidy_data.txt'' contains 68 variables and 180 measurements. The variables are as follows:
 
 - Activity : Activity performed by the volunteer                    
 - Subject_id : Identity of the volunteer (integer)
