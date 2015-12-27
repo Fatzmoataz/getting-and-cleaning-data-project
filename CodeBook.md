@@ -49,7 +49,7 @@ To clean the data, the following transformations have been applied to the origin
 
 6- A new data frame called summarized_data had been created from tidyData independent by taking the average of each variable for each activity and each subject.
 
-7- summarized_data has been saved in a file “tidy_data.txt”
+7- summarized_data has been saved in a file ''tidy_data.txt''
 
 ## Description of the tidy data
 
@@ -59,20 +59,20 @@ The tidy data stored in “tidy_data.txt” contains 68 variables and 180 measuremen
 - Subject_id : Identity of the volunteer (integer)
 
 and then for each of the X, Y, and Z axes (referred to as axis) and each of the mean and standard deviation measures (referred to as measure)
-- tBodyAcc_measure_axis :  “measure” of body acceleration time domain signal on “axis“            
-- tGravityAcc_measure_axis :  “measure” of gravity acceleration time domain signal on “axis“ 
-- tBodyAccJerk_measure_axis : “measure” of gravity acceleration jerk time domain signal on “axis“   
-- tBodyGyro_measure_axis : “measure” of body angular velocity time domain signal on “axis“       
-- tBodyGyroJerk_measure_axis :  “measure” of body angular velocity jerk time domain signal on “axis“
-- tBodyAccMag_measure : “measure” of the magnitude of body acceleration time domain signal                   
-- tGravityAccMag_measure : “measure” of the magnitude of gravity acceleration time domain signal
-- tBodyAccJerkMag_measure : “measure” of the magnitude of body acceleration jerk time domain signal       
-- tBodyGyroMag_measure : “measure” of the magnitude of body angular velocity time domain signal        
-- tBodyGyroJerkMag_measure :  “measure” of the magnitude of body angular velocity jerk time domain signal       
-- fBodyAcc_measure_axis :  “measure” of body acceleration frequency domain signal on “axis“         
-- fBodyAccJerk_measure_axis : “measure” of body acceleration jerk frequency domain signal on “axis“       
-- fBodyGyro_measure_axis :  “measure” of body angular velocity frequency domain signal on “axis“                       
-- fBodyAccMag_measure : “measure” of the magnitude of body acceleration frequency domain signal                
-- fBodyBodyAccJerkMag_measure : “measure” of the magnitude of body acceleration jerk frequency domain signal   
-- fBodyBodyGyroMag_measure :  “measure” of the magnitude of body angular velocity frequency domain signal                             
-- fBodyBodyGyroJerkMag_measure : “measure” of the magnitude of body angular velocity jerk frequency domain signal  
+- tBodyAcc_measure_axis :  ''measure'' of body acceleration time domain signal on ''axis''            
+- tGravityAcc_measure_axis :  ''measure'' of gravity acceleration time domain signal on ''axis'' 
+- tBodyAccJerk_measure_axis : ''measure'' of gravity acceleration jerk time domain signal on ''axis''   
+- tBodyGyro_measure_axis : ''measure'' of body angular velocity time domain signal on ''axis''       
+- tBodyGyroJerk_measure_axis :  ''measure'' of body angular velocity jerk time domain signal on ''axis''
+- tBodyAccMag_measure : ''measure'' of the magnitude of body acceleration time domain signal                   
+- tGravityAccMag_measure : ''measure'' of the magnitude of gravity acceleration time domain signal
+- tBodyAccJerkMag_measure : ''measure'' of the magnitude of body acceleration jerk time domain signal       
+- tBodyGyroMag_measure : ''measure'' of the magnitude of body angular velocity time domain signal        
+- tBodyGyroJerkMag_measure :  ''measure'' of the magnitude of body angular velocity jerk time domain signal       
+- fBodyAcc_measure_axis :  ''measure'' of body acceleration frequency domain signal on ''axis''         
+- fBodyAccJerk_measure_axis : ''measure'' of body acceleration jerk frequency domain signal on ''axis''      
+- fBodyGyro_measure_axis :  ''measure'' of body angular velocity frequency domain signal on ''axis''                       
+- fBodyAccMag_measure : ''measure'' of the magnitude of body acceleration frequency domain signal                
+- fBodyBodyAccJerkMag_measure : ''measure'' of the magnitude of body acceleration jerk frequency domain signal   
+- fBodyBodyGyroMag_measure :  ''measure'' of the magnitude of body angular velocity frequency domain signal                             
+- fBodyBodyGyroJerkMag_measure : ''measure'' of the magnitude of body angular velocity jerk frequency domain signal  
